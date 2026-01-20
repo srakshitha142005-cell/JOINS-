@@ -1,0 +1,4 @@
+order_id,customer_name,region,order_date,total_amount
+101,Rahul,South,2024-02-12,2500
+102,Anita,North,2024-03-08,1800
+103,John,West,2024-04-15,3200

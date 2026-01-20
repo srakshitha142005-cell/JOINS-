@@ -1,0 +1,6 @@
+
+1. Top 3 products contribute more than 45% of total revenue, indicating high-performing SKUs.
+
+2. Around 20% of customers have never placed any orders, making them ideal targets for marketing campaigns.
+
+3. Electronics category generates the highest revenue and should be prioritized for promotions.
